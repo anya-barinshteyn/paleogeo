@@ -1,8 +1,8 @@
 # Paleo-climate ice corn research with a python program
 
 
-Comma-separated values (CSV) files in the data.zip file are used by the ice_cores.ipynb python program for the research.
-These CSV files must be placed to the data/ directory at the same level with the ice_cores.ipynb program.
+Comma-separated values (CSV) files in the data.zip file are used by the paleogeo.ipynb python program for the research.
+These CSV files must be placed to the data/ directory at the same level with the paleogeo.ipynb program.
 All the charts described below are printed on the same figure.
 
 The program consists of a number of functions:
