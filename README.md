@@ -20,3 +20,5 @@ part3_2: reads the CSV files data/edc-co2-2008-bern-noaa.txt & data/edc3deuttemp
 part4_1: reads the CSV file data/Elbrus_raw_data.txt and builds a Nh4 dependency on depth chart (4-th line, left)
 
 part4_2: reads the CSV file data/Elbrus_annual_summer.txt and auilds a Nh4, No3, So4 dependency on year chart (4-th line, right)
+
+Remark: In parts where there were gaps in the data (3 lines in the dataset for part 3), those gaps were blocked out to stop errors when the program ran.
